@@ -1,0 +1,55 @@
+.x4{
+    text-decoration: none;
+    font-size: 30px;
+}
+
+.x8{
+background:rgb(182, 0, 0);
+color: firebrick;
+font-family: comfortaa; 
+padding: 0 15px;
+display: flex;
+justify-content: space-between;
+align-items: center;
+
+
+}
+
+
+.x6{
+    width: 150px;
+    height: 150px;
+    border-radius: 300px;
+}
+
+ul{
+display: flex;
+list-style-type: none;
+}
+
+ul li{
+padding: 0 20px;
+}
+
+.x11{
+justify-content: center;
+align-items: center;
+padding: 15px;
+margin: 10px;
+background-color: rgb(182, 0, 0);
+text-decoration: none;
+}
+
+.x12{
+color:darkred ;
+font-size: 100px;
+}
+
+p{
+color:crimson;
+font-size: 30px;
+
+}
+
+
+
